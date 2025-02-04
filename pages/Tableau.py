@@ -7,10 +7,10 @@ st.title("DiamondScope")
 st.write("If it is not visible due to pop-up blocking, please access this link. https://public.tableau.com/app/profile/ran.xing/viz/MLB_17387022664210/Dashboard2#1")
 
 # Tableau Public Dashboard
-st.title("Propery Insurance Benefit")
+st.title("MLB Player Performance")
 html_temp = """
 <div style="background-color:#e6005c ;padding:10px">
-<h2 style="color:white;text-align:center;">Contract Analysis ML App </h2>
+<h2 style="color:white;text-align:center;">Player Performance Analysis ML App </h2>
 </div>
 <br>
 """
