@@ -65,7 +65,7 @@ class CortexSearchRetriever:
     )
         resp = cortex_search_service.search(
                 query=query,
-                columns=["KEY_DETAILS_CONDITIONS"],
+                columns=["SUMMARY"],
                 limit=self._limit_to_retrieve,
             )
 
