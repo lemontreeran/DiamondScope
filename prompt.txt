@@ -1,0 +1,3 @@
+Can you please predict a prospect’s MLB™ potential, projecting career impact based on current performance and historical comparisons?
+His player id is 663903
+His name is Brady Singer
