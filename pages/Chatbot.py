@@ -21,7 +21,7 @@ def init_messages():
         st.session_state.messages = []
     
     if not st.session_state.messages:
-        st.session_state.messages.append({"role": "assistant", "content": "Ask me anything about your signed contract!"})
+        st.session_state.messages.append({"role": "assistant", "content": "Ask me anything about MLB player performance!"})
 
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
