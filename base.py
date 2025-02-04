@@ -70,7 +70,7 @@ class CortexSearchRetriever:
             )
 
         if resp.results:
-            return [curr["KEY_DETAILS_CONDITIONS"] for curr in resp.results]
+            return [curr["SUMMARY"] for curr in resp.results]
         else:
             return []
         
