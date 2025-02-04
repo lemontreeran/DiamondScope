@@ -1,1 +1,8 @@
-1. Who is the most talented player in MLB? Show me the forecast for this player’s MLB™ potential?
+Who is the most talented player in MLB? Show me the forecast for this player’s MLB™ potential?
+Please analyze the player 672580 over the season 2023 and 2024. And forecast his batting potential.
+For the player 672580, based on the home runs, runs batted in, batting average, hits, doubles, triples, games played, at-bats, and strikeouts over the season 2023 and 2024, can you please forecast his skills in 2025?
+Based on the trend of home runs, runs batted in, hits, doubles, triples, games played, at-bats, and strikeouts for player 672580 over the 2023 and 2024 seasons, what are the average values for these metrics in the 2025 season?
+Using a linear regression model and considering the 2023 and 2024 seasons, what are the forecasted values for home runs, runs batted in, hits, doubles, triples, at-bats, and strikeouts for player 672580 in the 2025 season?
+Compare all the players for home runs, runs batted in, hits, doubles, triples, at-bats, and strikeouts over the season 2023 and 2024. Show me the most talented player. 
+What are the historical values for home runs, runs batted in, hits, doubles, triples, at-bats, and strikeouts for player 660271 in the 2023 and 2024 seasons?
+Draw the line graph based this historical data and forecasted data for player 660271
